@@ -2,6 +2,11 @@
 Oracle SQL Developer Extension to view the data dictionary of Oracle E-Business Suite, similar to http://etrm.oracle.com. 
 This adds a similar capability to the Describe window inside SQL Developer. 
 
+#+CAPTION: FND Column Descriptions
+[[Oracle SQL Developer _ Table GL.GL_JE_HEADERS_desc.png]]
+
+#+CAPTION: Foreign Keys
+[[Oracle SQL Developer _ Table GL.GL_JE_HEADERS_fk.png]]
 
 *** Installation
 To install it in SQL Developer:
